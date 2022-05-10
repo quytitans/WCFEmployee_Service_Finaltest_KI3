@@ -1,0 +1,14 @@
+C:\Users\quana\source\repos\WCFEmployee_Service\WCFEmployee_Service\obj\Debug\WCFEmployee_Service.csproj.AssemblyReference.cache
+C:\Users\quana\source\repos\WCFEmployee_Service\WCFEmployee_Service\obj\Debug\WCFEmployee_Service.csproj.CoreCompileInputs.cache
+C:\Users\quana\source\repos\WCFEmployee_Service\WCFEmployee_Service\bin\WCFEmployee_Service.dll.config
+C:\Users\quana\source\repos\WCFEmployee_Service\WCFEmployee_Service\bin\WCFEmployee_Service.dll
+C:\Users\quana\source\repos\WCFEmployee_Service\WCFEmployee_Service\bin\WCFEmployee_Service.pdb
+C:\Users\quana\source\repos\WCFEmployee_Service\WCFEmployee_Service\bin\EntityFramework.dll
+C:\Users\quana\source\repos\WCFEmployee_Service\WCFEmployee_Service\bin\EntityFramework.SqlServer.dll
+C:\Users\quana\source\repos\WCFEmployee_Service\WCFEmployee_Service\bin\EntityFramework.xml
+C:\Users\quana\source\repos\WCFEmployee_Service\WCFEmployee_Service\bin\EntityFramework.SqlServer.xml
+C:\Users\quana\source\repos\WCFEmployee_Service\WCFEmployee_Service\obj\Debug\WCFEmployee_Service.csproj.CopyComplete
+C:\Users\quana\source\repos\WCFEmployee_Service\WCFEmployee_Service\obj\Debug\WCFEmployee_Service.dll
+C:\Users\quana\source\repos\WCFEmployee_Service\WCFEmployee_Service\obj\Debug\WCFEmployee_Service.pdb
+C:\Users\quana\source\repos\WCFEmployee_Service\WCFEmployee_Service\obj\Debug\WCFEmployee_Service.Migrations._112.resources
+C:\Users\quana\source\repos\WCFEmployee_Service\WCFEmployee_Service\obj\Debug\WCFEmployee_Service.csproj.GenerateResource.cache
